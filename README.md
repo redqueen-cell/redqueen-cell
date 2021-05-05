@@ -20,7 +20,7 @@ In 2018, I graduated with a Bachelor of Arts in Early Childhood Education from P
 
 #### 🔭 View my progress:
 * HackerRank
-* Rosalind
+* [Rosalind](http://rosalind.info/users/Sophia-Velasquez/)
 * Kaggle
 
 <!--
