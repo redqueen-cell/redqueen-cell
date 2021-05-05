@@ -2,7 +2,7 @@
 
 About Me
 —
-In 2018, I graduated with a Bachelor of Arts in Early Childhood Education from Pacific Oaks College (4.0 GPA), planning to pursue a career involving social and educational research. A year later, I became fascinated by the field of regenerative medicine after reading about the work of David Sinclair and George Church. I have always been interested in machine learning and AI, and I understood that there was great potential for machine learning to be applied to medical purposes. That potential was solidified in my mind following the debut of DeepMind’s AlphaFold 2. Now, I'm in the process of learning the skills required to transition over to software development for biotech.
+In 2018, I graduated with a Bachelor of Arts in Early Childhood Education from Pacific Oaks College (4.0 GPA), planning to pursue a career involving social and educational research. A year later, I became fascinated by the field of regenerative medicine after reading about the work of David Sinclair, Michael Levin and George Church. I have always been interested in machine learning and AI, and I understood that there was great potential for machine learning to be applied to medical purposes. That potential was solidified in my mind following the debut of DeepMind’s AlphaFold 2. Now, I'm in the process of learning the skills required to transition over to software development for biotech.
 
 
 #### 🌱 Learning the basics of...
