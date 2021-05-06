@@ -19,7 +19,7 @@ In 2018, I graduated with a Bachelor of Arts in Early Childhood Education from P
 - Rust
 
 #### 🔭 View my progress:
-* HackerRank
+* [HackerRank](https://www.hackerrank.com/Sophia_Velasquez)
 * [Rosalind](http://rosalind.info/users/Sophia-Velasquez/)
 * Kaggle
 
